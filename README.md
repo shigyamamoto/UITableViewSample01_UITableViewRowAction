@@ -1,7 +1,8 @@
 # サンプル画像
 <img src="https://github.com/shigyamamoto/UITableViewSample01_UITableViewRowAction/blob/images/image-sample01.png" width="200">
-
-![サンプル画像1]( = 200x)![サンプル画像2](https://github.com/shigyamamoto/UITableViewSample01_UITableViewRowAction/blob/images/image-sample02.png)![サンプル画像3](https://github.com/shigyamamoto/UITableViewSample01_UITableViewRowAction/blob/images/image-sample03.png)![サンプル画像4](https://github.com/shigyamamoto/UITableViewSample01_UITableViewRowAction/blob/images/image-sample04.png)
+<img src="https://github.com/shigyamamoto/UITableViewSample01_UITableViewRowAction/blob/images/image-sample02.png" width="200">
+<img src="https://github.com/shigyamamoto/UITableViewSample01_UITableViewRowAction/blob/images/image-sample03.png" width="200">
+<img src="https://github.com/shigyamamoto/UITableViewSample01_UITableViewRowAction/blob/images/image-sample04.png" width="200">
 
 # 動作環境
     MacOS 10.14.4
