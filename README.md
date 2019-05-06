@@ -1,5 +1,5 @@
 # サンプル画像
-<img src="https://github.com/shigyamamoto/UITableViewSample01_UITableViewRowAction/blob/images/image-sample01.png" width="200">
+<img src="https://github.com/shigyamamoto/UITableViewSample01_UITableViewRowAction/blob/images/image-sample01.png" width="200" style="float:left">
 <img src="https://github.com/shigyamamoto/UITableViewSample01_UITableViewRowAction/blob/images/image-sample02.png" width="200">
 <img src="https://github.com/shigyamamoto/UITableViewSample01_UITableViewRowAction/blob/images/image-sample03.png" width="200">
 <img src="https://github.com/shigyamamoto/UITableViewSample01_UITableViewRowAction/blob/images/image-sample04.png" width="200">
